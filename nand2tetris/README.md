@@ -1,0 +1,1 @@
+nand2tetris is a project where students gain experience in the design and functioning of computer systems beginning from the level of individual logic gates and building to assembly language, virtual machine code, an object-oriented programming language, and the OS. My solutions to building a compiler and translator for this project are located here. 
